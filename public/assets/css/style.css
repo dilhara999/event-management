@@ -1,0 +1,21 @@
+/* login - user */
+.bgimg1{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.txt{
+    font-family: 'Times New Roman', Times, serif;
+}
+.txt1{
+    font-family :'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.btn-main{
+    background-color: #3B81D3;
+    color: #fff;
+}
+
+.input::placeholder{
+color: #C8C8C8;
+}
